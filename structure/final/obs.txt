@@ -1,0 +1,4 @@
+Neste Zip não estão incluidos:
+- json usado no ficheiro python "map_"
+- dados de treino e test
+- dados utilizados na web_app (train_data_EDA), que pode ser obtido ao correr o notebook 01
